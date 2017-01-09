@@ -1,0 +1,6 @@
+[submodule "routinelyUse"]
+	path = routinelyUse
+	url = https://github.com/mikenewgit01/routinelyUse.git
+[submodule "Aerial"]
+	path = Aerial
+	url = https://github.com/jspinella/Aerial.git
