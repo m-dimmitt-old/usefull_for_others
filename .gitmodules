@@ -4,3 +4,6 @@
 [submodule "Aerial"]
 	path = Aerial
 	url = https://github.com/jspinella/Aerial.git
+[submodule "cloc"]
+	path = cloc
+	url = https://github.com/AlDanial/cloc.git
