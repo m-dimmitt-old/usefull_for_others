@@ -1,9 +1,9 @@
 [submodule "routinelyUse"]
 	path = routinelyUse
 	url = https://github.com/mikenewgit01/routinelyUse.git
-[submodule "Aerial"]
-	path = Aerial
-	url = https://github.com/jspinella/Aerial.git
 [submodule "cloc"]
 	path = cloc
 	url = https://github.com/AlDanial/cloc.git
+[submodule "Aerial_Desktop"]
+	path = Aerial_Desktop
+	url = https://github.com/MichaelDimmitt/Aerial_Desktop.git
